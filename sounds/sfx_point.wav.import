@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sfx_point.wav-4a2872dd50b365de846cb4a85b4b7e5d.sample"
+
+[deps]
+
+source_file="res://sounds/sfx_point.wav"
+source_md5="5e192824c7a27ddc26d66031dde3974b"
+
+dest_files=[ "res://.import/sfx_point.wav-4a2872dd50b365de846cb4a85b4b7e5d.sample" ]
+dest_md5="4e35f2d850fc64a6b7013b08cb0b954b"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

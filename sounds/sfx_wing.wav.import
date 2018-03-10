@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sfx_wing.wav-acaa7e4b212f1ccc1b90e42540951d22.sample"
+
+[deps]
+
+source_file="res://sounds/sfx_wing.wav"
+source_md5="dd983677606ea2a94cdf22d5fb99bc00"
+
+dest_files=[ "res://.import/sfx_wing.wav-acaa7e4b212f1ccc1b90e42540951d22.sample" ]
+dest_md5="7d7b761d07b7b8197ce1901aded38acb"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
